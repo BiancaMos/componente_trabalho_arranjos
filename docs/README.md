@@ -24,15 +24,17 @@ _Technology:_
 # 👩🏻‍💻 Componente trabalhos:
 _Component Jobs:_  
 
-📸 Captura de tela da inspiração via Figma / Rocketseat: 
+📸 Captura de tela da inspiração via Figma / Rocketseat: <br>
 Inspiration screenshot via Figma / Rocketseat:
 
 ![](../images/inspiracao.png)
-📸 Capturas de telas do meu projeto final, via iPad Pro:
+📸 Capturas de telas do meu projeto final, via iPad Pro: 
+<br>
 _Screenshots of my final project, via iPad Pro_
 ![](../images/tela_ipad_pro.png)
-📱 iPhone 12 Pro:
-![](../images/tela_samgung_s20_ultra.png)
+
+📱 Screenshot iPhone 12 Pro:
+![](../images/iphone12pro.png)
 
 #
 ## 💡 Projeto:
