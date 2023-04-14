@@ -26,14 +26,12 @@ _Component Jobs:_
 
 📸 Captura de tela da inspiração via Figma / Rocketseat: <br>
 Inspiration screenshot via Figma / Rocketseat:
-
 ![](../images/inspiracao.png)
-📸 Capturas de telas do meu projeto final, via iPad Pro: 
+🇧🇷 Capturas de telas projeto final, via iPad Pro e iPhone 12 Pro:
 <br>
-_Screenshots of my final project, via iPad Pro_
-![](../images/tela_ipad_pro.png)
+🇺🇸 Final project screenshots, via iPad Pro and iPhone 12 Pro: 
 
-📱 Screenshot iPhone 12 Pro:
+![](../images/tela_ipad_pro.png)
 ![](../images/iphone12pro.png)
 
 #
